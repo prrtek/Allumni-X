@@ -1,0 +1,62 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python dependencies
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+
+# Java dependencies
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+target/
+
+# Ruby dependencies
+*.gem
+*.rbc
+.ruby-version
+.ruby-gemset
+/.bundle
+/vendor/bundle/
+/log
+/tmp
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Directory-based project files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.B
+
+.env
